@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=62&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=%3E%20Backend%20%7C%20AI%20Systems%20%7C%20Realtime%20Products&descAlignY=62&descSize=20&descColor=7B68EE&stroke=00FF41&strokeWidth=2" alt="Pranav Singh Rajoria" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=58&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=%3E%20Backend%20%7C%20AI%20%7C%20Realtime%20Systems%20%7C%20Security&descAlignY=62&descSize=18&descColor=38BDF8&stroke=38BDF8&strokeWidth=1" alt="Pranav Singh Rajoria" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%3E+Initializing+backend+builder...+%5BOK%5D;%3E+Loading+Spring+Boot+runtime...+%5BOK%5D;%3E+Booting+AI+systems...+%5BOK%5D;%3E+Syncing+realtime+collaboration+engine...+%5BOK%5D;%5BQUEST+ACTIVE%5D+Ship+OpsPilot;%5BQUEST+ACTIVE%5D+Build+production-grade+systems;%3E+Java+%7C+Go+%7C+Next.js+%7C+PostgreSQL+_" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Booting+NullFrame+Systems...;%3E+Backend+core+online+%5BOK%5D;%3E+Realtime+sync+layer+stable+%5BOK%5D;%3E+AI+pipelines+processing+%5BOK%5D;%3E+Security+scanner+armed+%5BOK%5D;%3E+Architecture+over+chaos._" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav8764&label=PLAYERS+VISITED&color=00FF41&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pranav8764&label=SYSTEM+VISITS&color=38BDF8&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/pranav8764?tab=followers">
-    <img src="https://img.shields.io/github/followers/pranav8764?label=PARTY+MEMBERS&style=for-the-badge&color=7B68EE" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/pranav8764?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" alt="GitHub followers" />
   </a>
   <a href="https://github.com/pranav8764">
-    <img src="https://img.shields.io/github/stars/pranav8764?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=FFB000&label=STARS+COLLECTED" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/pranav8764?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&label=STARS" alt="GitHub stars" />
   </a>
 </p>
 
@@ -22,12 +22,12 @@
 
 ```txt
 > booting pranav.exe
-> loading backend modules... OK
-> loading realtime systems... OK
-> loading ai agents... OK
-> loading database layer... OK
-> syncing quest log... OK
-> status: ready to build
+> loading backend core.................. OK
+> loading realtime infrastructure....... OK
+> loading ai workflow engine............ OK
+> loading security scanner.............. OK
+> loading product architecture.......... OK
+> status: ready to ship
 ```
 
 ---
@@ -37,22 +37,24 @@
 ## `> PLAYER ONE`
 
 ```txt
-CLASS    : Backend + AI Systems Engineer
+NAME     : Pranav Singh Rajoria
+WORLD    : NullFrame Systems
+CLASS    : Backend-focused Software Engineer
+FOCUS    : Backend · AI · Realtime · Security
 GUILD    : ABV-IIITM Gwalior
-WEAPON   : Java · Spring Boot · Go · Next.js · PostgreSQL
-LORE     : Builds realtime products, backend systems, AI workflows, and security tools
-STATUS   : [ON QUEST] — Agentic DevOps, DentalAI, DSA, and production-grade systems
+MISSION  : Build systems from architecture, not optimism.
+STATUS   : [SHIPPING] scalable products and AI-backed workflows
 ```
 
 | Stat | Loadout |
 |---|---|
-| **Class** | Backend / AI Systems Builder |
-| **Main Weapon** | Java + Spring Boot |
-| **Secondary Weapon** | Go + Python |
-| **Frontend Kit** | Next.js + React + TypeScript |
-| **Database Core** | PostgreSQL + MongoDB + Redis |
-| **Current Level** | B.Tech EEE @ ABV-IIITM Gwalior |
-| **Ultimate** | Turning rough product ideas into working systems |
+| **Primary Class** | Backend / Systems Engineer |
+| **Main Weapon** | Java · Spring Boot · Go |
+| **Secondary Weapon** | Next.js · React · TypeScript |
+| **AI Module** | Groq · LLM workflows · Resume scoring · RAG direction |
+| **Realtime Layer** | WebSockets · SockJS · Socket.io |
+| **Database Layer** | PostgreSQL · MongoDB · Redis |
+| **Passive Skill** | Replacing chaos with architecture |
 
 <br clear="right" />
 
@@ -61,13 +63,14 @@ STATUS   : [ON QUEST] — Agentic DevOps, DentalAI, DSA, and production-grade sy
 ## `> XP PROGRESS`
 
 ```txt
-Java + Spring Boot     ████████░░ 80%
-Go Backend Systems     ███████░░░ 70%
-Next.js + React        ████████░░ 80%
-PostgreSQL + Redis     ███████░░░ 75%
-AI Agents + RAG        ██████░░░░ 65%
-DSA + Problem Solving  ███████░░░ 75%
-System Design          ██████░░░░ 65%
+Backend Systems        █████████░ 90%
+Realtime Sync          ████████░░ 80%
+AI Workflows           ███████░░░ 70%
+Security Engineering   ███████░░░ 70%
+Data Modeling          ████████░░ 80%
+Frontend Products      ███████░░░ 70%
+Cloud Pipelines        ██████░░░░ 60%
+DSA / Problem Solving  ███████░░░ 70%
 ```
 
 ---
@@ -76,62 +79,100 @@ System Design          ██████░░░░ 65%
 
 | Priority | Quest | Status |
 |:---:|---|:---:|
-| 🔴 | **OpsPilot** — agentic AI DevOps assistant for deploy, monitor, debug, and recovery workflows | `[IN PROGRESS]` |
-| 🔴 | **Visync** — realtime collaborative whiteboard with low-latency sync and persistent board state | `[SHIPPING]` |
-| 🟡 | **DentalAI / OpenDental** — ML + database intelligence for dental workflows | `[BUILDING]` |
-| 🟡 | **DSA Grind** — Java problem solving for campus placements and interviews | `[ONGOING]` |
-| 🟢 | **Backend Depth** — Spring Boot, Go services, PostgreSQL, queues, and scalable APIs | `[ALWAYS ACTIVE]` |
+| 🔴 | **OpsPilot** — Agentic AI DevOps assistant for deploy, monitor, debug, and recovery workflows | `[BUILDING]` |
+| 🔴 | **Visync** — realtime collaborative whiteboard with event persistence and fast board recovery | `[SHIPPED]` |
+| 🟡 | **DentalAssistant** — domain-specific dental AI / database-backed assistant exploration | `[RESEARCH]` |
+| 🟡 | **ParkIntel** — illegal parking hotspot prediction with Go API + ONNX inference | `[PROTOTYPED]` |
+| 🟢 | **SentinelAPI** — API vulnerability scanner and realtime security dashboard | `[ARCHIVED]` |
 
 ---
 
-## `> SIDE QUESTS 🧩`
+## `> FEATURED BUILDS 🏗️`
 
-- Build clean, production-style backend services
-- Improve realtime collaboration architecture
-- Study distributed systems and database internals
-- Build AI agents that work with real tools and repositories
-- Write better documentation for every serious project
-- Push more polished public repositories
+| Build | What it does | Stack | Signal |
+|---|---|---|---|
+| **[Visync](https://github.com/pranav8764/Visync)** | Realtime collaborative whiteboard for teams, teaching, interviews, and visual collaboration | Spring Boot · SockJS · Next.js · Konva.js · PostgreSQL · Redis | `90% payload reduction · <150ms board loads` |
+| **[OpsPilot](https://github.com/pranav8764/OpsPilot)** | Agentic AI DevOps assistant for small teams | Go microservices · Next.js · PostgreSQL · pgvector · Redis · NATS · Python FastAPI | `GitHub app + repo ingestion pipeline` |
+| **[ParkIntel](https://github.com/pranav8764/ParkIntel)** | Illegal parking hotspot prediction and enforcement dispatch system | Go · Next.js · PostgreSQL · ONNX Runtime · LightGBM · XGBoost · Docker | `live ML inference served through API` |
+| **[SentinelAPI](https://github.com/pranav8764/SentinelAPI)** | API security scanner with live monitoring and threat detection | Node.js · Express · MongoDB · Socket.io · JWT | `12 attack categories · 40+ threat patterns` |
+| **[MindBloom](https://github.com/pranav8764/MIndBloom1)** | Gamified mental wellness tracker with journaling and realtime rooms | React · Node.js · Express · MongoDB · Socket.io | `journaling · challenges · XP system` |
+| **[HireFT Assignment](https://github.com/pranav8764/HireFT-Assignment)** | Resume-to-job analyzer with explainable scoring and LLM suggestions | React · Node.js · MongoDB · Groq · Puppeteer | `500+ synonym dictionary · weighted ATS scoring` |
+
+---
+
+## `> SYSTEM ARCHITECTURE MAP 🗺️`
+
+```mermaid
+mindmap
+  root((PRANAV))
+    Backend
+      Java
+      Spring Boot
+      Go
+      Node.js
+      REST APIs
+      Worker Pools
+    Realtime
+      WebSockets
+      SockJS
+      Socket.io
+      Room Routing
+      Presence
+    AI
+      Groq
+      LLM Workflows
+      Resume Scoring
+      Job Matching
+      Dental AI
+    Data
+      PostgreSQL
+      MongoDB
+      Redis
+      JSONB Snapshots
+      Caffeine Cache
+    Security
+      JWT
+      API Scanning
+      Rate Limiting
+      OWASP Patterns
+    Product
+      Next.js
+      React
+      TypeScript
+      Dashboards
+```
 
 ---
 
 ## `> LOADOUT ⚙️`
 
-| Build | Stack |
+| Build Type | Stack |
 |---|---|
-| **Backend Build** | Java · Spring Boot · Go · Node.js · Express |
-| **Realtime Build** | WebSockets · SockJS · Socket.io · Redis |
-| **AI Build** | Python · RAG · AI Agents · MLX · ONNX |
-| **Frontend Build** | Next.js · React · TypeScript · Tailwind CSS |
-| **Database Build** | PostgreSQL · MongoDB · Prisma · SQL |
-| **Cloud / Infra Build** | Docker · AWS S3 · AWS SQS · Railway · Vercel |
+| **Backend Build** | Java · Spring Boot · Go · Node.js · Express.js · REST APIs |
+| **Realtime Build** | WebSockets · SockJS · Socket.io · ConcurrentHashMap routing |
+| **AI Build** | Python · Groq · LLM workflows · resume scoring · job analysis |
+| **Data Build** | PostgreSQL · MongoDB · Redis · JSONB snapshots · Caffeine caching |
+| **Frontend Build** | Next.js · React.js · TypeScript · Tailwind CSS · Konva.js |
+| **Cloud Build** | AWS S3 · AWS SQS · Vercel · Railway · Docker |
+| **Security Build** | JWT · rate limiting · threat patterns · security headers · OWASP/CWE reports |
 
 ---
 
 ## `> INVENTORY 🎒`
 
-| Slot | Equipped |
-|---|---|
-| **Languages** | Java · Go · Python · JavaScript · TypeScript · C++ · SQL |
-| **Backend Kit** | Spring Boot · Express.js · REST APIs · WebSockets · Microservices |
-| **Frontend Kit** | Next.js · React · Tailwind CSS · Konva.js |
-| **Database Kit** | PostgreSQL · MongoDB · Redis · Supabase |
-| **AI Kit** | RAG pipelines · LLM workflows · MLX · ONNX Runtime |
-| **DevOps Gear** | Docker · GitHub · Railway · Vercel · AWS |
-| **Grinding Grounds** | LeetCode · Codeforces · GitHub · Hackathons |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,go,python,ts,js,react,nextjs,nodejs,express,spring,postgres,mongodb,redis,docker,aws,git,github,linux,vercel,tailwind&perline=10" alt="Tech stack" />
+</p>
 
----
-
-## `> FEATURED BUILDS 🧱`
-
-| Project | Type | Stack | Drop |
-|---|---|---|---|
-| **[Visync](https://github.com/pranav8764/Visync)** | Realtime Collaboration | Next.js · Spring Boot · PostgreSQL · Redis · SockJS | Collaborative whiteboard with drawing sync, rooms, chat, undo/redo, snapshots |
-| **[OpsPilot](https://github.com/pranav8764/OpsPilot)** | Agentic DevOps | Go · Python FastAPI · NATS · PostgreSQL · pgvector · Next.js | AI assistant for repository ingestion, project Q&A, deployment workflows, and incident memory |
-| **[ParkIntel](https://github.com/pranav8764/ParkIntel)** | ML + Civic Tech | Go · ONNX · PostgreSQL · Next.js · Docker | Illegal parking hotspot predictor and enforcement command center |
-| **[DentalAssistant](https://github.com/pranav8764/DentalAssistant)** | AI Research | Python · MLX · Sparse Attention · TurboQuant · TurboVec | Experimental dental LLM architecture and OpenDental intelligence layer |
-| **[SentinelAPI](https://github.com/pranav8764/SentinelAPI)** | Security Platform | Node.js · Express · MongoDB · Socket.io · JWT | API vulnerability scanner with realtime monitoring and security reports |
-| **[MindBloom](https://github.com/pranav8764/MIndBloom1)** | Full-Stack Product | React · Node.js · Express · MongoDB · Socket.io | Gamified mental health tracker with journaling, challenges, and achievements |
+<p align="center">
+  <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/SockJS-38BDF8?style=for-the-badge&logoColor=black" alt="SockJS" />
+  <img src="https://img.shields.io/badge/Konva.js-F97316?style=for-the-badge&logoColor=white" alt="Konva.js" />
+  <img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logoColor=white" alt="NATS" />
+</p>
 
 ---
 
@@ -139,100 +180,36 @@ System Design          ██████░░░░ 65%
 
 | Boss | Weakness | Status |
 |---|---|:---:|
-| **Distributed Systems** | Consistency, queues, failure handling, service boundaries | `[FIGHTING]` |
-| **Production Backend** | Clean APIs, database design, async jobs, observability | `[FIGHTING]` |
-| **Agentic AI Reliability** | Tool calling, RAG quality, approvals, hallucination checks | `[FIGHTING]` |
-| **Realtime Collaboration** | Low latency, state sync, conflict handling, reconnect flows | `[FIGHTING]` |
-| **Interview DSA** | Patterns, DP, graphs, trees, and implementation speed | `[GRINDING]` |
+| **Distributed Realtime State** | Server-authoritative events + snapshot compaction | `[FIGHTING]` |
+| **AI Reliability** | Structured prompts + retrieval + evaluation loops | `[FIGHTING]` |
+| **Production Deployment Chaos** | Agentic DevOps workflows + logs + rollback paths | `[BUILDING]` |
+| **Database Pressure** | Deduplication · caching · compact storage | `[MANAGED]` |
+| **Security Drift** | Automated scanning · headers · rate limits | `[ARMED]` |
 
 ---
 
-## `> BOSS HP`
+## `> PROOF OF WORK 📜`
 
-```txt
-Production Backend       ████████░░ 80%
-Realtime Systems         ████████░░ 80%
-Agentic AI Reliability   ██████░░░░ 65%
-Database Engineering     ███████░░░ 75%
-System Design            ██████░░░░ 65%
-Interview DSA            ███████░░░ 75%
-```
-
----
-
-## `> SKILL TREE 🌳`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,js,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,linux,tailwind,vercel&perline=10" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Backend" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Realtime_Systems-111827?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Realtime Systems" />
-  <img src="https://img.shields.io/badge/AI_Agents-7B68EE?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MLX" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-</p>
-
----
-
-## `> GAME MODES 🕹️`
-
-| Mode | Focus |
+| Signal | Evidence |
 |---|---|
-| **Builder Mode** | Shipping full-stack products from idea to deploy |
-| **Backend Mode** | APIs, databases, queues, auth, and scalable services |
-| **AI Mode** | RAG, agents, ML workflows, and model-backed products |
-| **Realtime Mode** | WebSockets, collaboration, live cursors, and sync engines |
-| **Arena Mode** | DSA, hackathons, interview prep, and rapid prototypes |
-| **Research Mode** | MLX, LLM internals, sparse attention, and database intelligence |
-
----
-
-## `> DUNGEON MAP 🗺️`
-
-```mermaid
-mindmap
-  root((PRANAV))
-    🧠 AI Systems
-      RAG
-      AI Agents
-      MLX
-      ONNX
-    ⚙️ Backend
-      Java
-      Spring Boot
-      Go
-      PostgreSQL
-    ⚡ Realtime
-      WebSockets
-      SockJS
-      Socket.io
-      Redis
-    🏗️ Products
-      Visync
-      OpsPilot
-      ParkIntel
-      SentinelAPI
-    🎯 Grind
-      DSA
-      System Design
-      Campus Prep
-```
+| **Realtime Systems** | Visync, SentinelAPI, MindBloom |
+| **Backend Engineering** | Spring Boot, Go, Node.js, worker pools, REST APIs |
+| **AI Workflows** | Groq-powered resume pipeline, job analysis, DentalAssistant exploration |
+| **Security Engineering** | SentinelAPI scanner, threat patterns, rate limiting, JWT flows |
+| **Data Systems** | PostgreSQL, MongoDB, Redis, JSONB snapshots, deduplication, Caffeine caching |
+| **Leadership** | Secretary, SAC Technical · Operations Lead, IEEE ABV-IIITM |
 
 ---
 
 ## `> CHARACTER STATS 📊`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav8764&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&title_color=00FF41&icon_color=00FF41&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav8764&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&title_color=00FF41&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav8764&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB&bg_color=0d1117" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav8764&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&title_color=38BDF8&text_color=E5E7EB&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=pranav8764&theme=chartreuse-dark&hide_border=true&card_width=980&background=0d1117&fire=FF6B35&ring=00FF41&currStreakLabel=00FF41" alt="GitHub streak" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=pranav8764&theme=tokyonight&hide_border=true&card_width=980&background=0d1117&fire=F97316&ring=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 </p>
 
 ---
@@ -240,20 +217,7 @@ mindmap
 ## `> COMBAT LOG ⚔️`
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav8764&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## `> CONTRIBUTION BOARD 🧊`
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav8764&theme=github_dark" alt="Contribution summary" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav8764&theme=github_dark" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav8764&theme=github_dark" alt="Most commit language" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav8764&theme=react-dark&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -261,66 +225,31 @@ mindmap
 ## `> ACHIEVEMENTS UNLOCKED 🏆`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNLOCKED-Realtime%20Builder-00FF41?style=for-the-badge&labelColor=111827" alt="Realtime Builder" />
-  <img src="https://img.shields.io/badge/UNLOCKED-Backend%20Engineer-7B68EE?style=for-the-badge&labelColor=111827" alt="Backend Engineer" />
-  <img src="https://img.shields.io/badge/UNLOCKED-AI%20Systems%20Builder-FFB000?style=for-the-badge&labelColor=111827" alt="AI Systems Builder" />
-  <img src="https://img.shields.io/badge/UNLOCKED-Security%20Explorer-00C2FF?style=for-the-badge&labelColor=111827" alt="Security Explorer" />
-  <img src="https://img.shields.io/badge/UNLOCKED-DSA%20Grinder-FF3B5C?style=for-the-badge&labelColor=111827" alt="DSA Grinder" />
+  <img src="https://img.shields.io/badge/UNLOCKED-Backend%20Core-38BDF8?style=for-the-badge&labelColor=111827" alt="Backend Core" />
+  <img src="https://img.shields.io/badge/UNLOCKED-Realtime%20Layer-8B5CF6?style=for-the-badge&labelColor=111827" alt="Realtime Layer" />
+  <img src="https://img.shields.io/badge/UNLOCKED-AI%20Pipeline-F59E0B?style=for-the-badge&labelColor=111827" alt="AI Pipeline" />
+  <img src="https://img.shields.io/badge/UNLOCKED-Security%20Scanner-EF4444?style=for-the-badge&labelColor=111827" alt="Security Scanner" />
+  <img src="https://img.shields.io/badge/UNLOCKED-Product%20Builder-10B981?style=for-the-badge&labelColor=111827" alt="Product Builder" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=pranav8764&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub trophies" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=pranav8764&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
 
-## `> RARE DROPS 💎`
-
-| Drop | Source |
-|---|---|
-| **Realtime Whiteboard Architecture** | Visync build logs |
-| **Agentic DevOps Product Design** | OpsPilot experiments |
-| **ML Model Serving with Go** | ParkIntel ONNX integration |
-| **API Security Testing Patterns** | SentinelAPI scanner |
-| **LLM Internals Notes** | DentalAssistant / MLX experiments |
-| **Debugging Instincts** | Long backend and deployment sessions |
-
----
-
-## `> PROOF OF WORK 📜`
-
-| Signal | Drop Location |
-|---|---|
-| ⚙️ **Backend Systems** | Spring Boot, Go services, REST APIs, WebSockets |
-| 🧠 **AI Systems** | RAG workflows, MLX experiments, ONNX model serving |
-| ⚡ **Realtime Products** | Collaborative whiteboards, live rooms, socket-based apps |
-| 🛡️ **Security Tools** | API scanning, threat checks, monitoring dashboards |
-| 🎯 **Practice** | LeetCode, Codeforces, DSA, hackathons |
-| 🧭 **Direction** | Backend-heavy products with AI and production engineering |
-
----
-
-## `> FIND ME IN THE LOBBY 🎮`
+## `> FIND ME IN THE SYSTEM 🌐`
 
 <p align="center">
+  <a href="https://pranavsinghrajoria.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/pranav8764" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/pranav-singh-rajoria" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/pranav8764/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/pranav.devvv" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="mailto:pranavrajoria1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:pranavrajoria1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## `> FINAL TRANSMISSION`
-
-```txt
-> build simple
-> scale carefully
-> debug brutally
-> ship consistently
-```
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=00FF41" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&fontColor=38BDF8" alt="Footer" />
 </p>
