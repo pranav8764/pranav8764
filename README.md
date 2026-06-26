@@ -1,4 +1,3 @@
-````m
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:111111,100:F59E0B&height=250&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=54&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Realtime%20Systems%20%7C%20Security&descAlignY=62&descSize=18&descColor=F59E0B&stroke=F59E0B&strokeWidth=1" alt="Pranav Singh Rajoria" />
 </p>
@@ -9,19 +8,19 @@
 
 <p align="center">
   <a href="https://pranavsinghrajoria.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-NullFrame-111111?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Portfolio" />
   </a>
   <a href="https://github.com/pranav8764">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pranav8764-111111?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Rajoria-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/pranav8764/">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-pranav8764-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
   </a>
   <a href="mailto:pranavrajoria1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pranavrajoria1%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
   </a>
 </p>
 
@@ -37,7 +36,7 @@ focus                : Backend · AI · Realtime · Security
 institution          : ABV-IIITM Gwalior
 status               : building systems that prefer logs over opinions
 mission              : products built from architecture, not optimism
-````
+```
 
 I build backend-heavy products, realtime systems, AI workflows, and security-focused platforms.
 
@@ -305,12 +304,12 @@ mindmap
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebSockets-111111?style=for-the-badge&logo=socketdotio&logoColor=F59E0B" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/SockJS-111111?style=for-the-badge&logoColor=F59E0B" alt="SockJS" />
-  <img src="https://img.shields.io/badge/Konva.js-111111?style=for-the-badge&logoColor=F59E0B" alt="Konva.js" />
-  <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=F59E0B" alt="Groq" />
-  <img src="https://img.shields.io/badge/pgvector-111111?style=for-the-badge&logo=postgresql&logoColor=F59E0B" alt="pgvector" />
-  <img src="https://img.shields.io/badge/NATS-111111?style=for-the-badge&logoColor=F59E0B" alt="NATS" />
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-111111?style=for-the-badge&logo=socketdotio&logoColor=F59E0B" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/SockJS-Fallback%20Transport-111111?style=for-the-badge&logoColor=F59E0B" alt="SockJS" />
+  <img src="https://img.shields.io/badge/Konva.js-Canvas-111111?style=for-the-badge&logoColor=F59E0B" alt="Konva.js" />
+  <img src="https://img.shields.io/badge/Groq-LLM%20Workflows-111111?style=for-the-badge&logoColor=F59E0B" alt="Groq" />
+  <img src="https://img.shields.io/badge/pgvector-RAG%20Storage-111111?style=for-the-badge&logo=postgresql&logoColor=F59E0B" alt="pgvector" />
+  <img src="https://img.shields.io/badge/NATS-Event%20Bus-111111?style=for-the-badge&logoColor=F59E0B" alt="NATS" />
 </p>
 
 ---
@@ -357,19 +356,19 @@ event.scale             : 2000+ registrations · 500+ finalists
 
 <p align="center">
   <a href="https://pranavsinghrajoria.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-NullFrame-111111?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Portfolio" />
   </a>
   <a href="https://github.com/pranav8764" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-pranav8764-111111?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Rajoria-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/pranav8764/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-pranav8764-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
   </a>
   <a href="mailto:pranavrajoria1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pranavrajoria1%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
   </a>
 </p>
 
@@ -390,4 +389,9 @@ event.scale             : 2000+ registrations · 500+ finalists
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:F59E0B&height=120&section=footer" alt="Footer" />
 </p>
-```
+
+<!--
+Optional advanced GitHub Actions visuals:
+Pac-Man and 3D contribution boards need generated SVG files first.
+Add them only after setting up GitHub Actions in pranav8764/pranav8764.
+-->
