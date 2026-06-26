@@ -1,106 +1,247 @@
+````m
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24,30&height=260&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=58&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=%3E%20Backend%20%7C%20AI%20%7C%20Realtime%20Systems%20%7C%20Security&descAlignY=62&descSize=18&descColor=38BDF8&stroke=38BDF8&strokeWidth=1" alt="Pranav Singh Rajoria" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:111111,100:F59E0B&height=250&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=54&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20AI%20%7C%20Realtime%20Systems%20%7C%20Security&descAlignY=62&descSize=18&descColor=F59E0B&stroke=F59E0B&strokeWidth=1" alt="Pranav Singh Rajoria" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Booting+NullFrame+Systems...;%3E+Backend+core+online+%5BOK%5D;%3E+Realtime+sync+layer+stable+%5BOK%5D;%3E+AI+pipelines+processing+%5BOK%5D;%3E+Security+scanner+armed+%5BOK%5D;%3E+Architecture+over+chaos._" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=F59E0B&center=true&vCenter=true&width=900&lines=%3E+NullFrame+Systems+booting...;%3E+Backend+core+online+%5BOK%5D;%3E+Realtime+layer+stable+%5BOK%5D;%3E+AI+pipeline+processing+%5BOK%5D;%3E+Security+scanner+armed+%5BOK%5D;%3E+Architecture+over+chaos." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav8764&label=SYSTEM+VISITS&color=38BDF8&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/pranav8764?tab=followers">
-    <img src="https://img.shields.io/github/followers/pranav8764?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" alt="GitHub followers" />
+  <a href="https://pranavsinghrajoria.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/pranav8764">
-    <img src="https://img.shields.io/github/stars/pranav8764?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&label=STARS" alt="GitHub stars" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/pranav8764/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
+  </a>
+  <a href="mailto:pranavrajoria1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
   </a>
 </p>
 
 ---
 
-## `> BOOT SEQUENCE`
+## `> NULLFRAME SYSTEMS`
 
 ```txt
-> booting pranav.exe
-> loading backend core.................. OK
-> loading realtime infrastructure....... OK
-> loading ai workflow engine............ OK
-> loading security scanner.............. OK
-> loading product architecture.......... OK
-> status: ready to ship
+system.identity      : Pranav Singh Rajoria
+role                 : Backend-focused Software Engineer
+world                : NullFrame Systems
+focus                : Backend · AI · Realtime · Security
+institution          : ABV-IIITM Gwalior
+status               : building systems that prefer logs over opinions
+mission              : products built from architecture, not optimism
+````
+
+I build backend-heavy products, realtime systems, AI workflows, and security-focused platforms.
+
+Most software fails quietly.
+Mine logs the failure, isolates it, and keeps moving.
+
+---
+
+## `> CURRENT SIGNAL`
+
+```txt
+backend.core         : online
+realtime.layer       : stable
+ai.pipeline          : processing
+security.scanner     : armed
+data.layer           : indexed
+cloud.workflow       : connected
+optimism             : rejected
+architecture         : holding
+```
+
+Currently focused on:
+
+* Scalable backend systems
+* Realtime collaboration infrastructure
+* AI-powered workflows and developer tools
+* API security and monitoring systems
+* Cloud-backed pipelines
+* Agentic AI + DevOps automation
+
+---
+
+## `> CORE MODULES`
+
+| Module             | Stack                                                   |
+| ------------------ | ------------------------------------------------------- |
+| **Backend Core**   | Java · Spring Boot · Go · Node.js · Express             |
+| **Realtime Layer** | WebSockets · SockJS · Socket.io                         |
+| **AI Pipeline**    | Groq · LLM workflows · Resume scoring · Job analysis    |
+| **Data Layer**     | PostgreSQL · MongoDB · Redis · JSONB · Caffeine         |
+| **Cloud Layer**    | AWS S3 · AWS SQS · Vercel · Railway · Docker            |
+| **Security Layer** | JWT · Rate limiting · OWASP patterns · Security headers |
+| **Product Layer**  | Next.js · React · TypeScript · Tailwind · Konva.js      |
+
+---
+
+## `> FEATURED BUILDS`
+
+### `01` Visync — Realtime Collaboration System
+
+**Realtime collaborative whiteboard for teams, interviews, teaching, and visual collaboration.**
+
+```txt
+type        : realtime systems
+stack       : Spring Boot · SockJS · Next.js · Konva.js · PostgreSQL · Redis
+signal      : 90% payload reduction · 95% row reduction · <150ms board loads
+```
+
+* Built realtime drawing sync with room-based WebSocket communication.
+* Used server-side routing and backpressure for stable event handling.
+* Reduced drawing payload size using path simplification.
+* Implemented snapshot compaction for faster board recovery.
+* Added infinite canvas support, reconnection handling, and synchronized undo/redo.
+
+[Repository](https://github.com/pranav8764/Visync)
+
+---
+
+### `02` SentinelAPI — API Security Scanner
+
+**API vulnerability scanner and realtime security monitoring dashboard.**
+
+```txt
+type        : security engineering
+stack       : Node.js · Express · MongoDB · Socket.io · JWT
+signal      : 12 attack categories · 40+ threat patterns · realtime monitoring
+```
+
+* Built scanner coverage for SQL injection, NoSQL injection, XSS, command injection, CORS, SSL/TLS, and auth flow testing.
+* Added middleware with threat pattern detection and NoSQL operator sanitization.
+* Injected security headers such as CSP, HSTS, and X-Frame-Options.
+* Built realtime traffic monitoring with Socket.io.
+* Generated OWASP/CWE-style risk reports.
+
+[Repository](https://github.com/pranav8764/SentinelAPI)
+
+---
+
+### `03` Job Match Analyzer — AI Resume Intelligence
+
+**AI-powered resume-to-job matching system with explainable scoring and LLM suggestions.**
+
+```txt
+type        : AI product
+stack       : React · Node.js · Express · MongoDB · Groq · Puppeteer
+signal      : weighted ATS scoring · 500+ synonym dictionary · LLM suggestions
+```
+
+* Built weighted scoring across skills, experience, education, and responsibilities.
+* Used fuzzy matching and a 500+ synonym dictionary.
+* Built Puppeteer scrapers for JS-rendered career pages.
+* Integrated Groq Llama 3.3 70B for targeted resume suggestions.
+* Split backend into scraper, matcher, LLM, and PDF parser services.
+
+[Repository](https://github.com/pranav8764/HireFT-Assignment)
+
+---
+
+### `04` MindBloom — Wellness Product System
+
+**Gamified mental wellness tracker with journaling, achievements, challenges, and realtime rooms.**
+
+```txt
+type        : full-stack product
+stack       : React · Node.js · Express · MongoDB · Socket.io
+signal      : journaling · challenges · XP system · realtime rooms
+```
+
+* Built journaling, mood tracking, and progress visualization workflows.
+* Added gamified challenges and achievement tracking.
+* Used realtime rooms for community-style interactions.
+* Designed product flows around engagement and habit-building.
+
+[Repository](https://github.com/pranav8764/MIndBloom1)
+
+---
+
+### `05` OpsPilot — Agentic DevOps Assistant
+
+**Agentic AI DevOps assistant for deployment, monitoring, debugging, and recovery workflows.**
+
+```txt
+type        : agentic AI + DevOps
+stack       : Go · Next.js · PostgreSQL · pgvector · Redis · NATS · Python FastAPI
+signal      : repo ingestion · deployment automation · recovery workflows
+```
+
+* Designed as a developer tool for deploying and monitoring projects.
+* Focused on GitHub repo analysis, logs, infrastructure actions, and rollback decisions.
+* Explores the intersection of backend engineering, AI agents, and DevOps automation.
+
+[Repository](https://github.com/pranav8764/OpsPilot)
+
+---
+
+### `06` ParkIntel — Urban Intelligence Prototype
+
+**Parking and congestion intelligence system for hotspot prediction and enforcement planning.**
+
+```txt
+type        : ML + urban systems
+stack       : Go · Next.js · PostgreSQL · ONNX Runtime · ML models
+signal      : hotspot prediction · API inference · urban decision support
+```
+
+* Built around parking violation and congestion intelligence.
+* Explores ML-backed prediction, dispatch logic, and city-scale decision support.
+* Designed as a product-style system rather than a notebook-only prototype.
+
+[Repository](https://github.com/pranav8764/ParkIntel)
+
+---
+
+## `> EXPERIENCE.LOG`
+
+### Software Engineering Intern — HireFT
+
+```txt
+status      : shipped
+mode        : backend + AI workflows + cloud pipelines
+timeline    : Mar 2026 - May 2026
+```
+
+```txt
+Workday Scraper
+  -> Worker Pool
+  -> PostgreSQL Deduplication
+  -> AWS SQS Queue
+  -> AWS S3 Storage
+  -> Groq Resume / ATS Enrichment
+```
+
+Built and shipped backend systems for scraping, enrichment, resume generation, and profile workflows.
+
+* Built a concurrent job-scraping pipeline in Go using worker pools.
+* Processed Workday ATS postings with PostgreSQL deduplication.
+* Used AWS S3 storage and AWS SQS-driven enrichment queues.
+* Designed a Groq-powered resume-generation flow.
+* Improved job-to-role matching across 500K+ records using staged role resolution and Caffeine caching.
+* Built REST APIs for profile management, presigned uploads, and auto-apply preferences.
+* Added PDF hyperlink extraction using PDFBox.
+
+```txt
+worker.pool             : active
+sqs.queue               : processing
+deduplication           : stable
+resume.pipeline         : shipped
+redundant.lookups       : eliminated
+architecture            : holding
 ```
 
 ---
 
-<img align="right" alt="Developer animation" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-## `> PLAYER ONE`
-
-```txt
-NAME     : Pranav Singh Rajoria
-WORLD    : NullFrame Systems
-CLASS    : Backend-focused Software Engineer
-FOCUS    : Backend · AI · Realtime · Security
-GUILD    : ABV-IIITM Gwalior
-MISSION  : Build systems from architecture, not optimism.
-STATUS   : [SHIPPING] scalable products and AI-backed workflows
-```
-
-| Stat | Loadout |
-|---|---|
-| **Primary Class** | Backend / Systems Engineer |
-| **Main Weapon** | Java · Spring Boot · Go |
-| **Secondary Weapon** | Next.js · React · TypeScript |
-| **AI Module** | Groq · LLM workflows · Resume scoring · RAG direction |
-| **Realtime Layer** | WebSockets · SockJS · Socket.io |
-| **Database Layer** | PostgreSQL · MongoDB · Redis |
-| **Passive Skill** | Replacing chaos with architecture |
-
-<br clear="right" />
-
----
-
-## `> XP PROGRESS`
-
-```txt
-Backend Systems        █████████░ 90%
-Realtime Sync          ████████░░ 80%
-AI Workflows           ███████░░░ 70%
-Security Engineering   ███████░░░ 70%
-Data Modeling          ████████░░ 80%
-Frontend Products      ███████░░░ 70%
-Cloud Pipelines        ██████░░░░ 60%
-DSA / Problem Solving  ███████░░░ 70%
-```
-
----
-
-## `> ACTIVE QUESTS 📋`
-
-| Priority | Quest | Status |
-|:---:|---|:---:|
-| 🔴 | **OpsPilot** — Agentic AI DevOps assistant for deploy, monitor, debug, and recovery workflows | `[BUILDING]` |
-| 🔴 | **Visync** — realtime collaborative whiteboard with event persistence and fast board recovery | `[SHIPPED]` |
-| 🟡 | **DentalAssistant** — domain-specific dental AI / database-backed assistant exploration | `[RESEARCH]` |
-| 🟡 | **ParkIntel** — illegal parking hotspot prediction with Go API + ONNX inference | `[PROTOTYPED]` |
-| 🟢 | **SentinelAPI** — API vulnerability scanner and realtime security dashboard | `[ARCHIVED]` |
-
----
-
-## `> FEATURED BUILDS 🏗️`
-
-| Build | What it does | Stack | Signal |
-|---|---|---|---|
-| **[Visync](https://github.com/pranav8764/Visync)** | Realtime collaborative whiteboard for teams, teaching, interviews, and visual collaboration | Spring Boot · SockJS · Next.js · Konva.js · PostgreSQL · Redis | `90% payload reduction · <150ms board loads` |
-| **[OpsPilot](https://github.com/pranav8764/OpsPilot)** | Agentic AI DevOps assistant for small teams | Go microservices · Next.js · PostgreSQL · pgvector · Redis · NATS · Python FastAPI | `GitHub app + repo ingestion pipeline` |
-| **[ParkIntel](https://github.com/pranav8764/ParkIntel)** | Illegal parking hotspot prediction and enforcement dispatch system | Go · Next.js · PostgreSQL · ONNX Runtime · LightGBM · XGBoost · Docker | `live ML inference served through API` |
-| **[SentinelAPI](https://github.com/pranav8764/SentinelAPI)** | API security scanner with live monitoring and threat detection | Node.js · Express · MongoDB · Socket.io · JWT | `12 attack categories · 40+ threat patterns` |
-| **[MindBloom](https://github.com/pranav8764/MIndBloom1)** | Gamified mental wellness tracker with journaling and realtime rooms | React · Node.js · Express · MongoDB · Socket.io | `journaling · challenges · XP system` |
-| **[HireFT Assignment](https://github.com/pranav8764/HireFT-Assignment)** | Resume-to-job analyzer with explainable scoring and LLM suggestions | React · Node.js · MongoDB · Groq · Puppeteer | `500+ synonym dictionary · weighted ATS scoring` |
-
----
-
-## `> SYSTEM ARCHITECTURE MAP 🗺️`
+## `> SYSTEM ARCHITECTURE MAP`
 
 ```mermaid
 mindmap
@@ -117,7 +258,7 @@ mindmap
       SockJS
       Socket.io
       Room Routing
-      Presence
+      Event Sync
     AI
       Groq
       LLM Workflows
@@ -144,112 +285,109 @@ mindmap
 
 ---
 
-## `> LOADOUT ⚙️`
+## `> PROOF OF WORK`
 
-| Build Type | Stack |
-|---|---|
-| **Backend Build** | Java · Spring Boot · Go · Node.js · Express.js · REST APIs |
-| **Realtime Build** | WebSockets · SockJS · Socket.io · ConcurrentHashMap routing |
-| **AI Build** | Python · Groq · LLM workflows · resume scoring · job analysis |
-| **Data Build** | PostgreSQL · MongoDB · Redis · JSONB snapshots · Caffeine caching |
-| **Frontend Build** | Next.js · React.js · TypeScript · Tailwind CSS · Konva.js |
-| **Cloud Build** | AWS S3 · AWS SQS · Vercel · Railway · Docker |
-| **Security Build** | JWT · rate limiting · threat patterns · security headers · OWASP/CWE reports |
+| Signal                   | Evidence                                                        |
+| ------------------------ | --------------------------------------------------------------- |
+| **Realtime Systems**     | Visync · SentinelAPI · MindBloom                                |
+| **Backend Engineering**  | Spring Boot · Go · Node.js · worker pools · REST APIs           |
+| **AI Workflows**         | Groq resume pipeline · job analysis · DentalAssistant direction |
+| **Security Engineering** | SentinelAPI scanner · threat patterns · rate limiting           |
+| **Data Systems**         | PostgreSQL · MongoDB · Redis · snapshots · deduplication        |
+| **Product Thinking**     | Visync · Job Match Analyzer · MindBloom · OpsPilot              |
 
 ---
 
-## `> INVENTORY 🎒`
+## `> TECH INVENTORY`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go,python,ts,js,react,nextjs,nodejs,express,spring,postgres,mongodb,redis,docker,aws,git,github,linux,vercel,tailwind&perline=10" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/SockJS-38BDF8?style=for-the-badge&logoColor=black" alt="SockJS" />
-  <img src="https://img.shields.io/badge/Konva.js-F97316?style=for-the-badge&logoColor=white" alt="Konva.js" />
-  <img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logoColor=white" alt="NATS" />
+  <img src="https://img.shields.io/badge/WebSockets-111111?style=for-the-badge&logo=socketdotio&logoColor=F59E0B" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/SockJS-111111?style=for-the-badge&logoColor=F59E0B" alt="SockJS" />
+  <img src="https://img.shields.io/badge/Konva.js-111111?style=for-the-badge&logoColor=F59E0B" alt="Konva.js" />
+  <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge&logoColor=F59E0B" alt="Groq" />
+  <img src="https://img.shields.io/badge/pgvector-111111?style=for-the-badge&logo=postgresql&logoColor=F59E0B" alt="pgvector" />
+  <img src="https://img.shields.io/badge/NATS-111111?style=for-the-badge&logoColor=F59E0B" alt="NATS" />
 </p>
 
 ---
 
-## `> BOSS ARENA 💀`
+## `> CREDENTIALS`
 
-| Boss | Weakness | Status |
-|---|---|:---:|
-| **Distributed Realtime State** | Server-authoritative events + snapshot compaction | `[FIGHTING]` |
-| **AI Reliability** | Structured prompts + retrieval + evaluation loops | `[FIGHTING]` |
-| **Production Deployment Chaos** | Agentic DevOps workflows + logs + rollback paths | `[BUILDING]` |
-| **Database Pressure** | Deduplication · caching · compact storage | `[MANAGED]` |
-| **Security Drift** | Automated scanning · headers · rate limits | `[ARMED]` |
+```txt
+education.verified      : ABV-IIITM Gwalior
+program                 : B.Tech Electrical and Electronics Engineering
+cgpa                    : 8.36
+status                  : in_progress
+```
 
----
-
-## `> PROOF OF WORK 📜`
-
-| Signal | Evidence |
-|---|---|
-| **Realtime Systems** | Visync, SentinelAPI, MindBloom |
-| **Backend Engineering** | Spring Boot, Go, Node.js, worker pools, REST APIs |
-| **AI Workflows** | Groq-powered resume pipeline, job analysis, DentalAssistant exploration |
-| **Security Engineering** | SentinelAPI scanner, threat patterns, rate limiting, JWT flows |
-| **Data Systems** | PostgreSQL, MongoDB, Redis, JSONB snapshots, deduplication, Caffeine caching |
-| **Leadership** | Secretary, SAC Technical · Operations Lead, IEEE ABV-IIITM |
+```txt
+leadership.detected     : Secretary, SAC Technical
+operations.archived     : Operations Lead, IEEE
+event.scale             : 2000+ registrations · 500+ finalists
+```
 
 ---
 
-## `> CHARACTER STATS 📊`
+## `> GITHUB TELEMETRY`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav8764&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB&bg_color=0d1117" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav8764&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&title_color=38BDF8&text_color=E5E7EB&bg_color=0d1117" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav8764&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&bg_color=0d1117" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav8764&theme=dark&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400&title_color=F59E0B&text_color=E5E7EB&bg_color=0d1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=pranav8764&theme=tokyonight&hide_border=true&card_width=980&background=0d1117&fire=F97316&ring=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
+  <img width="98%" src="https://streak-stats.demolab.com?user=pranav8764&theme=dark&hide_border=true&card_width=980&background=0d1117&fire=F59E0B&ring=F59E0B&currStreakLabel=F59E0B" alt="GitHub streak" />
 </p>
 
 ---
 
-## `> COMBAT LOG ⚔️`
+## `> COMBAT LOG`
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav8764&theme=react-dark&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav8764&theme=github-compact&bg_color=0d1117&color=F59E0B&line=F59E0B&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
 
-## `> ACHIEVEMENTS UNLOCKED 🏆`
+## `> FIND ME IN THE SYSTEM`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNLOCKED-Backend%20Core-38BDF8?style=for-the-badge&labelColor=111827" alt="Backend Core" />
-  <img src="https://img.shields.io/badge/UNLOCKED-Realtime%20Layer-8B5CF6?style=for-the-badge&labelColor=111827" alt="Realtime Layer" />
-  <img src="https://img.shields.io/badge/UNLOCKED-AI%20Pipeline-F59E0B?style=for-the-badge&labelColor=111827" alt="AI Pipeline" />
-  <img src="https://img.shields.io/badge/UNLOCKED-Security%20Scanner-EF4444?style=for-the-badge&labelColor=111827" alt="Security Scanner" />
-  <img src="https://img.shields.io/badge/UNLOCKED-Product%20Builder-10B981?style=for-the-badge&labelColor=111827" alt="Product Builder" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=pranav8764&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-## `> FIND ME IN THE SYSTEM 🌐`
-
-<p align="center">
-  <a href="https://pranavsinghrajoria.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/pranav8764" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/pranav8764/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:pranavrajoria1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://pranavsinghrajoria.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=F59E0B" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/pranav8764" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-singh-rajoria-05a407314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F59E0B" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/pranav8764/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=F59E0B" alt="LeetCode" />
+  </a>
+  <a href="mailto:pranavrajoria1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&fontColor=38BDF8" alt="Footer" />
+  <code>status: available_for_backend_internships</code>
+  <br />
+  <code>mode: building_systems</code>
+  <br />
+  <code>noise: filtered</code>
 </p>
+
+<p align="center">
+  <b>If the architecture held your attention, the engineer is available.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:F59E0B&height=120&section=footer" alt="Footer" />
+</p>
+```
