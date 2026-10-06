@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=PRANAV%20SINGH%20RAJORIA&fontSize=62&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Security%20%7C%20Distributed%20Systems&descAlignY=62&descSize=20&descColor=7B68EE&stroke=00FF41&strokeWidth=2" alt="Pranav Singh Rajoria" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:0d1117,100:0f5132&text=PRANAV%20SINGH%20RAJORIA&fontSize=58&fontColor=00FF41&fontAlignY=38&desc=Backend%20%7C%20Security%20%7C%20Distributed%20Systems&descSize=20&descAlignY=58&descColor=e6edf3&animation=fadeIn" alt="Pranav Singh Rajoria" />
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav8764&label=Profile+views&color=00FF41&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/pranav8764?tab=followers">
     <img src="https://img.shields.io/github/followers/pranav8764?label=Followers&style=for-the-badge&color=7B68EE" alt="GitHub followers" />
   </a>
@@ -66,5 +65,5 @@ B.Tech EEE student at ABV-IIITM Gwalior (2028). I build secure backend, distribu
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=00FF41" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:0f5132" alt="Footer" />
 </p>
